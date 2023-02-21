@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mastro_coding" target="blank"><img src="https://img.shields.io/twitter/follow/mastro_coding?logo=twitter&style=for-the-badge" alt="mastro_coding" /></a> </p>
 
+<img width="45%" style="display: inline" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="mohamed montaser" />
+
+
 - 🌱 I’m currently learning **React, RESTFUL API, OBJECT ORIANTED PROGRAMMING**
 
 - 👨‍💻 All of my projects are available at [https://mohamed-montaser1.github.io/my_portfolio/build/](https://mohamed-montaser1.github.io/my_portfolio/build/)
