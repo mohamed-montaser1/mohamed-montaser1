@@ -9,10 +9,10 @@
  - 🐼 Doing my best <br>
  ## 📩 Connect with me 
 <p align="left">
-<a href="https://codepen.io/mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mohamed" height="30" width="40" /></a>
-<a href="https://twitter.com/mohamed montaser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed montaser" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed montaser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed montaser" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucfs4x3b29ojsugcfabcnwiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucfs4x3b29ojsugcfabcnwiw" height="30" width="40" /></a>
+<a href="https://codepen.io/mohamed-_-montaser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mohamed" height="30" width="40" /></a>
+<a href="https://twitter.com/Mastro_Coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed montaser" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-montaser-8a00a1230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed montaser" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCFs4x3B29OjSugCfAbCnwiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucfs4x3b29ojsugcfabcnwiw" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohamed_montaser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamed_montaser" height="30" width="40" /></a>
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-montaser1" alt="mohamed-montaser1" /></a> </p>
