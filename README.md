@@ -12,6 +12,16 @@
 
 ###
 
+<h4 align="left">Profile view cout:</h4>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mohamed-montaser1/count.svg?"  />
+</div>
+
+###
+
 <h4 align="left">Technologies I use:</h4>
 
 ###
@@ -63,12 +73,6 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mohamed-montaser1/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-montaser1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=mohamed-montaser1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
@@ -76,5 +80,3 @@
 ###
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
-###
