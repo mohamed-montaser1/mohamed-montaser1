@@ -75,6 +75,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mohamed-montaser1/mohamed-montaser1/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
