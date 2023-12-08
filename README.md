@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm mohamed montaser. fullstack developer with 2 years of experience in web development. i've build cool websites and landing pages for different clients around the world. i love this career so much so i can create creative websites with cool animations, transitions and clean code. *PERFORMANCE* , *SEO* and "ACCESSIBLITY" is something i very good at!! you can check my code now. and don't forget to give me your awesome star ⭐</p>
+<p align="left">my name is mohamed montaser. i work as fullstack developer with 2 years of experience in web development. i've build cool websites and landing pages for different clients around the world. i love creating websites that will help people that what makes me special in my field, transitions and clean code is what my focus at. *PERFORMANCE*, *SEO* and "ACCESSIBLITY" are somethings i great at! you can check my code right now. don't forget to give me your amazing star ⭐</p>
 
 ###
 
