@@ -10,18 +10,6 @@
 
 <p align="left">my name is mohamed montaser. i work as fullstack developer with 2 years of experience in web development. i've build cool websites and landing pages for different clients around the world. i love creating websites that will help people that what makes me special in my field, transitions and clean code is what my focus at. *PERFORMANCE*, *SEO* and "ACCESSIBLITY" are somethings i great at! you can check my code right now. don't forget to give me your amazing star ⭐</p>
 
-###
-
-<h4 align="left">Profile view cout:</h4>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mohamed-montaser1/count.svg?"  />
-</div>
-
-###
-
 <h4 align="left">Technologies I use:</h4>
 
 ###
